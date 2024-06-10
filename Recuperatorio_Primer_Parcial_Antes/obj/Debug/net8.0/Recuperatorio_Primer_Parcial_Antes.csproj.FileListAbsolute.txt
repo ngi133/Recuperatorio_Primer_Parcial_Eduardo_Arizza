@@ -1,0 +1,14 @@
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.AssemblyInfoInputs.cache
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.AssemblyInfo.cs
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.csproj.CoreCompileInputs.cache
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\bin\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.exe
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\bin\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.deps.json
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\bin\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.runtimeconfig.json
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\bin\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.dll
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\bin\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.pdb
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.dll
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\refint\Recuperatorio_Primer_Parcial_Antes.dll
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.pdb
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\Recuperatorio_Primer_Parcial_Antes.genruntimeconfig.cache
+C:\Users\eduyk\source\repos\Recuperatorio_Primer_Parcial_Antes\obj\Debug\net8.0\ref\Recuperatorio_Primer_Parcial_Antes.dll

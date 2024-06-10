@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Recuperatorio_Primer_Parcial_Antes/1.0.0": {
+        "runtime": {
+          "Recuperatorio_Primer_Parcial_Antes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recuperatorio_Primer_Parcial_Antes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
